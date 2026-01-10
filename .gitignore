@@ -1,0 +1,18 @@
+# ملفات البناء
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# ملفات إعدادات المحرر (VS Code / IntelliJ)
+.vscode/
+.idea/
+*.iml
+.settings/
+.classpath
+.project
+
+# ملفات النظام
+.DS_Store
+Thumbs.db
